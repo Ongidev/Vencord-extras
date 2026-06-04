@@ -3,7 +3,7 @@
 #
 # ── Run directly from PowerShell (no download needed) ──────────────────────────
 #
-#   irm https://raw.githubusercontent.com/Ongidev/Vencord-extras/refs/heads/main/install-all.ps1 | iex
+#   irm https://raw.githubusercontent.com/Ongidev/Vencord-extras/refs/heads/main/Allpluginsinstall.ps1 | iex
 #
 # ── Or install individual plugins ─────────────────────────────────────────────
 #
